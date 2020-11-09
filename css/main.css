@@ -6,3 +6,7 @@ h1 {
 footer p {
     text-align: center;
 }
+
+ul {
+    list-style: none;
+}
